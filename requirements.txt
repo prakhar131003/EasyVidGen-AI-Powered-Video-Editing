@@ -1,0 +1,7 @@
+PySide6==6.6.1
+openai-whisper==20231117
+moviepy==1.0.3
+requests==2.31.0
+pydub==0.25.1
+python-dotenv==1.0.0
+pexels-api==1.2.4
