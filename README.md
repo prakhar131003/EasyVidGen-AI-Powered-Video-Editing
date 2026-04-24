@@ -28,7 +28,7 @@ The application is built with **PySide6** which is a Python implementation of Qt
 
 * Python 3.10 or higher
 * [FFmpeg](https://ffmpeg.org/download.html) – must be in system PATH (required by MoviePy)
-* [Ollama](https://ollama.com/download) – running locally with a model (e.g., `llama3`)
+* [Ollama](https://ollama.com/download) – running locally with a model (e.g., `gemma4:e4b`)
 * [Pexels API key](https://www.pexels.com/api/) – free tier
 
 ### Clone \& Setup
@@ -37,7 +37,7 @@ The application is built with **PySide6** which is a Python implementation of Qt
 git clone https://github.com/yourusername/youtube-video-generator.git
 cd youtube-video-generator
 python -m venv venv
-source venv/bin/activate or `venv\\\\Scripts\\\\activate` on Windows
+source venv/bin/activate or `venv\Scripts\activate` on Windows
 pip install -r requirements.txt
 ```
 
